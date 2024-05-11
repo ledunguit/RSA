@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Mat Ma va Ung Dung/Labs/Week5/RSA/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/Mat Ma va Ung Dung/Labs/Week5/RSA/include\" -g -o CMakeFiles\\RSA.dir\\RSA.cpp.obj -c \"D:\\Mat Ma va Ung Dung\\Labs\\Week5\\RSA\\RSA.cpp\"",
+  "file": "D:\\Mat Ma va Ung Dung\\Labs\\Week5\\RSA\\RSA.cpp",
+  "output": "CMakeFiles\\RSA.dir\\RSA.cpp.obj"
+}
+]
